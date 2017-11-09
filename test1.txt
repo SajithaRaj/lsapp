@@ -1,4 +1,6 @@
-<html><body>
+<html>
+<title>lsapp update test</title>
+<body>
             <div id="footer_div" > 
                 <table width="100% cellpadding="30">
                     <tr>

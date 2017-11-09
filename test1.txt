@@ -1,6 +1,4 @@
-<html>
-<title>lsapp update test</title>
-<body>
+
             <div id="footer_div" > 
                 <table width="100% cellpadding="30">
                     <tr>
@@ -16,8 +14,7 @@
                     </tr>
                     
                 </table>
+<div>
+<h1>from netbeans</h1>
+</div>
             
-        </div>
-        <hr>
-        
-      </body>  </html>

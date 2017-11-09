@@ -1,0 +1,17 @@
+
+            <div id="footer_div" > 
+                <table width="100% cellpadding="30">
+                    <tr>
+                        <td width="50%">
+                            <a href="#" id="footer_link">MissionOs</a>&nbsp;&nbsp;
+                            <a href="#" id="footer_link">Termsofuse</a>&nbsp;&nbsp;
+                         <a href="#" id="footer_link">Security</a>&nbsp;&nbsp;
+                         <a href="#" id="footer_link">Privacy</a>
+                        
+                        </td>
+                        <td id=footer_link2 align="right" width="50%">   © 2017 Maxwell GeoSystems Ltd. All Rights Reserved.
+                        </td>
+                    </tr>
+                </table>
+            
+        </div>

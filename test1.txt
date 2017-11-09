@@ -1,4 +1,4 @@
-
+<html><body>
             <div id="footer_div" > 
                 <table width="100% cellpadding="30">
                     <tr>
@@ -9,9 +9,11 @@
                          <a href="#" id="footer_link">Privacy</a>
                         
                         </td>
-                        <td id=footer_link2 align="right" width="50%">   © 2017 Maxwell GeoSystems Ltd. All Rights Reserved.
+                        <td id=footer_link2 align="right" width="50%">   Â© 2017 Maxwell GeoSystems Ltd. All Rights Reserved.
                         </td>
                     </tr>
                 </table>
             
         </div>
+        
+      </body>  </html>
